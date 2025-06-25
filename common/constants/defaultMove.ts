@@ -2,7 +2,7 @@
 import { Move } from '../types/global';
 
 // Importing a more refined color palette (assuming it's defined elsewhere, as in our previous example)
-import { BRAND_ACCENTS, CORE_PALETTE } from '../styles/colors';
+   import { BRAND_ACCENTS, CORE_PALETTE } from './colors';
 
 export const CANVAS_INITIAL_STATE: Move = { // Renamed for clarity
   // Geometric properties for different shapes
